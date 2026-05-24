@@ -517,7 +517,15 @@ If you want to modify how the skill works:
 
 ## License
 
-MIT License - See LICENSE file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+This means you're free to:
+- Use this tool for any purpose
+- Modify the code however you want
+- Share it with others
+- Use it in commercial projects
+
+The only requirement is that you include the original copyright notice.
 
 ---
 
